@@ -1,0 +1,12 @@
+{
+{"payroll": "March 2024",
+{"employee": {
+{"name": "Saruman",
+{"working_hour": 140,
+{"payment_details": {
+{"base_fee": "TL28000,00"
+{"effort": "TL0,00",
+{"total_payment": "TL28000,00"
+ }
+ }
+}

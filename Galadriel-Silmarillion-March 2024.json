@@ -1,0 +1,12 @@
+{
+{"payroll": "March 2024",
+{"employee": {
+{"name": "Galadriel",
+{"working_hour": 200,
+{"payment_details": {
+{"base_fee": "TL94500,00"
+{"effort": "TL15000,00",
+{"total_payment": "TL109500,00"
+ }
+ }
+}
